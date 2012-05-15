@@ -12,13 +12,13 @@ THE GREEN VALUE:
 
 Quello che si può fare in più rispetto a uncomune termostato è dovuto alla potenza del software:
 Impostare un delay di intervento. 
-Può sembrare una banalità.. ma cò non è.
+Può sembrare una banalità.. ma ciò non è.
 Immaginiamo di avere un volume da scaldare nelle mezze stagioni. E di avere un riscaldamento autonomo.
 Gli accumulatori (bollitori) saranno logicamente caricati di energia di solare termico ma ancora molto da energia a pagamento (ovvero en.el/gpl/metano/kerosene etc.).
-E' evidente che per raggiungere la temperatura di esercizio (55..60°C) il termostato è spsso in funzione, anche solo per scaldare centinaia di LT di acqua per poche decine di minuti. Solo per mantenerla perfettamente a 60°C.
+E' evidente che per raggiungere la temperatura di esercizio (55..60°C) il termostato è spesso in funzione, anche solo per scaldare centinaia di LT di acqua per poche decine di minuti. Solo per mantenerla perfettamente a 60°C.
 
 Nell'ottica di ragionare per consumare meno, ma anche di buon senso, va da se che non è assolutamente necessario garantire una T esatta sui bollitori quando nelle mezze stagioni è sufficiente avere Delta termici più ampi, senza dover far lavorare costantemente la caldaia.
-Ma ovviamente manca un sistema che sia in grado di creare questo ritardoche si traduce in una erie di cicli di lavoro in meno.
+Ma ovviamente manca un sistema che sia in grado di creare questo ritardo che si traduce in una serie di cicli di lavoro in meno.
 
 
 TECNICO:
